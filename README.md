@@ -1,5 +1,5 @@
 CARABAO VPN Privacy Policy
-Effective Date: september 13, 2024
+Effective Date: september 22, 2024
 
 Introduction
 CARABAO VPN is committed to protecting your privacy. This Privacy Policy explains how we handle your information when you use our CARABAO VPN app for Android ("App").
